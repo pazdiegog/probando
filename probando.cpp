@@ -7,6 +7,6 @@
 
 int main ()
 {
-    std::cout << "hola como estas?";
+    std::cout << "hola como estas? bien ?";
 
 }
